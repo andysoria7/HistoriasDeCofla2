@@ -1,0 +1,16 @@
+body {
+    color: #000;
+     font-family: sans-serif;
+ }
+ 
+#geInfo{
+     font-size: 40px;
+     margin: 20px;
+ }
+ 
+ .resultado {
+     background-color: #efefef;
+     padding: 20px;
+     font-size: 19px;
+
+ }
